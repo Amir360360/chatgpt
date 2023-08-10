@@ -4,5 +4,5 @@
   "notifications": "تکرار",
   "text_notifications": "اطلاعیه:\nبررسی گروه آغاز شد. این مورد 48 ساعت زمان می برد.",
   "id_notifications": "1",
-  "condition": "فعال"
+  "condition": "غیرفعال"
 }
